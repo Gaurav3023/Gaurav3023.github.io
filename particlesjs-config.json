@@ -11,7 +11,7 @@
       "value": "#020000"
     },
     "shape": {
-      "type": "triangle",
+      "type": "star",
       "stroke": {
         "width": 0,
         "color": "#000000"
